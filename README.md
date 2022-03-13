@@ -23,20 +23,20 @@
 
 <ol>
 <li><a href="docs/01-Documentação de Contexto.md"> Introdução</a></li>
-  <ul>
+  <ol>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md#problema"> Problemas</a></li>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md#objetivos"> Objetivos</a></li>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md#justificativa"> Justificativa</a></li>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md#p%C3%BAblico-alvo"> Público-Alvo</a></li>
-  </ul>
+  </ol>
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-  <ul>
+  <ol>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md#personas"> Personas</a></li>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md#hist%C3%B3rias-de-usu%C3%A1rios"> Histórias de Usuários</a></li>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md#requisitos-do-projeto"> Requisitos do Projeto</a></li>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md#restri%C3%A7%C3%B5es"> Restrições</a></li>
      <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md#diagrama-de-casos-de-uso"> Diagrama de Casos de Uso</a></li>
-  </ul>
+  </ol>
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
