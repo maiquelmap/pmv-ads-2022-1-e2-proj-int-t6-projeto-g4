@@ -20,6 +20,12 @@ Essa plataforma deverá apresentar as publicações distribuídas por categoria 
 
 Assim, promovendo a democratização cultural que tem como pilar facilitar o acesso da população à qualquer forma de arte e ao conhecimento científico  
 
+## Justificativa
+
+De acordo com uma pesquisa feita pelo IBGE em 2019, existe uma diferença significativa no acesso à cultura por parte da população preta e parda em relação à população branca: 44% dos pretos e pardos vivem em cidades sem cinemas, contra 34% da população branca; 37%, em cidades sem museus contra 25% dos brancos. Essa diferença também se exprime em relação aos centros e as periferias, com a maioria das atividades culturais se concentrando em áreas centrais. 
+
+Diante da demanda apresentada e da necessidade de acesso rápido e fácil a informações, vê-se a necessidade de criar um aplicativo que facilite o contato de usuários e consumidores de atividades culturais com os prestadores desses serviços, de modo a cada vez mais democratizar e popularizar a cultura na cidade de Belo Horizonte. 
+
 ## Público-Alvo
 
 O público alvo da aplicação a ser desenvolvida são quaisquer pessoas que consomem eventos culturais e de qualquer faixa etária. 
