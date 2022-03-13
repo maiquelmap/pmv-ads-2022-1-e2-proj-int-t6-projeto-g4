@@ -25,7 +25,7 @@
 <li><a href="docs/01-Documentação de Contexto.md"> Introdução</a></li>
   <ul>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md#problema"> Problemas</a></li>
-    <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md#problema"> Objetivos</a></li>
+    <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md#objetivos"> Objetivos</a></li>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md#problema"> Justificativa</a></li>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md#problema"> Público-Alvo</a></li>
   </ul>
