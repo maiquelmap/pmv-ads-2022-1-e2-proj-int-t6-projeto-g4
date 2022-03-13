@@ -1,103 +1,311 @@
 # Especificações do Projeto
-
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+<p>A definição exata do problema se deu através de pesquisas em relação à realidade cultural brasileira e das demandas percebidas pelos integrantes do grupo que residem no Brasil. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários. </p>
+<p>Os dados foram coletados a partir de Personas e Histórias de usuários.</p>
 
 ## Personas
+<p>Segue abaixo as Personas consultadas durante o processo de especificação:</p>
+<div>
+ <table>
+  <thead>
+        <th></th>
+        <th>Renato Vieira</th>
+        <th>Patrícia Campos</th>
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+  </thead>
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+  <tbody id="tbody">
+        <td><b>Idade</b></td>
+        <td>45 anos</td>
+        <td>35 anos</td>
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+   <tr><td><b>Ocupação </b></td>
+    <td>Gerente de Banco</td>
+    <td>Promotora de eventos</td></tr>
+    <tr><td><b>Status</b></td>
+    <td>
+     <ul>
+      <li>Stake Holder Secundário;</li>
+     </ul>
+    </td>
+    <td>
+     <ul>
+      <li>Stake Holder Primário;</li>
+     </ul></td></tr>
+     <tr><td><b>Meios utilizados para procura de eventos culturais</b></td>
+     <td>
+     <ul>
+      <li>Facebook</li>
+      <li>SouBh</li>
+      <li>Sympla</li>
+     </ul></td>
+     <td>
+     <ul>
+      <li>Instagram</li>
+      <li>Eventim</li>
+      <li>Twitter</li>
+     </ul></td></tr>
+     <tr><td><b>Frustrações</b></td>
+     <td>
+     <ul>
+      <li>Gastar muito tempo procurando eventos interessantes.</li><br>
+      <li> Não ter a possibilidade de comentar ou dar sugestões sobre o evento.</li>
+     </ul></td>
+      <td><ul><li>Ter o seu evento divulgado com informações incorretas e discretas que não chamam a atenção do cliente;</li>
+       <li>Não ter acesso aos comentários, sugestões ou reclamações que os clientes realizam sobre o evento. </li>
+     </ul> </td>     
+<tr><td><b>Objetivos</b></td>
+     <td>
+     <ul>
+      <li> Ter disponível um site gratuito com todas as programações culturais e de entretenimento atualizado e de fácil acesso.  </li>
+     </ul></td>
+      <td><ul><li>Ter disponível um site gratuito ou de baixo custo para cadastrar a programação que se deseja divulgar para os clientes, sendo este canal muito acessado pela comunidade, de fácil uso, intuitivo, e que atrai a atenção do usuário para a programação oferecida. </li>
+     </ul> </td>
+<tr><td><b>Hobbies/História</b></td>
+     <td>
+     <ul>
+       <li> Jogar futebol. </li>
+       <li> Fazer churrasco com os amigos. </li>
+       <li> Frequentar teatros, cinemas, shows de música, exposições de arte.  </li>     
+     </ul></td>
+      <td>
+     <ul>
+      <li>Caminhar na praia; </li>
+      <li>Sair com os amigos </li>
+      <li>Ler livros </li>
+     </ul> </td></tr>
+  </tbody>
+ </table>
+</div>
+
+<div>
+ <table>
+  <thead>
+        <th></th>
+        <th>Luiza Antunes</th>
+        <th>Fabiana Medeiros</th>
+
+  </thead>
+
+  <tbody id="tbody">
+        <td><b>Idade</b></td>
+        <td>24 anos</td>
+        <td>29 anos</td>
+
+   <tr><td><b>Ocupação </b></td>
+    <td>Cantora</td>
+    <td>Promotora de eventos</td></tr>
+    <tr><td><b>Status</b></td>
+    <td>
+     <ul>
+      <li>Stake Holder Primário;</li>
+     </ul>
+    </td>
+    <td>
+     <ul>
+      <li>Stake Holder Primário;</li>
+     </ul></td></tr>
+     <tr><td><b>Meios utilizados para procura de eventos culturais</b></td>
+     <td>
+     <ul>
+      <li>Facebook</li>
+      <li>SouBh</li>
+      <li>Twitter</li>
+     </ul></td>
+     <td>
+     <ul>
+      <li>Instagram</li>
+      <li>Eventim</li>
+      <li>Twitter</li>
+      <li>SouBh</li>
+     </ul></td></tr>
+     <tr><td><b>Frustrações</b></td>
+     <td>
+     <ul>
+      <li>Ter o seu evento divulgado com informações incorretas e discretas que não chamam a atenção do cliente</li>
+      <li>Não conseguir uma comunicação rápida e eficiente com a equipe do site que divulga o seu evento</li>
+      <li>Não ter acesso aos comentários, sugestões que os seus fãs divulgam.</li>
+     </ul></td>
+      <td><ul><li>Encontrar limitação de dados a serem publicados para realizar uma melhor propaganda do evento</li>
+       <li>Observar que as informações sobre o evento foram publicadas de forma discreta, e dificultando o acesso do cliente para a compra de ingressos</li>
+       <li>Não ter acesso aos comentários, sugestões ou reclamações que os clientes realizam sobre o evento.</li>
+     </ul> </td>     
+<tr><td><b>Objetivos</b></td>
+     <td>
+     <ul>
+      <li> Ter disponível um site gratuito para divulgar os seus shows, sendo este canal muito acessado principalmente por adolescentes e adultos, de fácil uso, auto explicativo, e que atrai a atenção do usuário para a programação oferecida.   </li>
+     </ul></td>
+      <td><ul><li>Ter acesso a um site intuitivo, fácil de usar, gratuito ou de baixo custo para cadastrar os shows e eventos dos seus clientes; além disso, ter este evento divulgado num site muito acessado pela comunidade e que disponibilize um espaço seguro para pagamento de ingressos.  </li>
+     </ul> </td>
+<tr><td><b>Hobbies/História</b></td>
+     <td>
+     <ul>
+       <li> Compor música;. </li>
+       <li> Ler livros de romance e poesias </li>
+       <li>Ir a shows de música dos seus amigos.  </li>     
+     </ul></td>
+      <td>
+     <ul>
+      <li>Colecionar biografias de artistas famosos.</li>
+      <li>Frequentar teatros, cinemas, shows de música, exposições de arte. </li>
+      <li>Ir a shows de bandas independentes locais</li>
+     </ul> </td></tr>
+  </tbody>
+ </table>
+</div>
+
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+<p>Foram registradas as seguintes histórias de usuário, a partir das necessidades das personas identificadas para o projeto:</p>
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+   <table class="table">
+    <thead>
+     <th>Eu como [Persona]</th>
+      <th>Quero/Desejo</th>
+       <th>Para</th>
+    </thead>
+    
+   <tbody id="tbody">
+     <td>Renato Vieira</td>
+     <td>Ter disponível um site gratuito sobre todas as programações culturais e de entretenimento.</td>
+     <td>Encontrar o que fazer, seja dia de semana, seja fim de semana, mais rapidamente.</td>
+   <tr><td>Patrícia Campos</td>
+       <td>Ter disponível um site gratuito ou de baixo custo para cadastrar a programação que se deseja divulgar para os clientes</td>
+       <td>Obter maior visibilidade, acarretando em um público maior no evento e maiores retornos financeiros.</td></tr>
+   <tr><td>Luiza Antunes</td>
+       <td>Ter disponível um site gratuito para divulgar os seus shows</td>
+       <td>Poder construir uma carreira no mundo da música, obtendo maior visibilidade com os eventos que participarei</td></tr>
+   <tr><td>Fabiana Medeiros</td>
+       <td>Ter acesso a um site auto explicativo, fácil de usar, gratuito ou de baixo custo para cadastrar os shows e eventos dos meus clientes;</td>
+       <td>Aumentar o público presente no evento, melhorando minha reputação como promotora de eventos</td></tr>
+   </tbody>
+  </table>
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+## Requisitos do Projeto
+<p>São apresentados abaixo, os requisitos funcionais, não funcionais e restrições que nortearão a construção deste projeto. Ressalta-se que tais requisitos foram elaborados com base nas histórias de usuários levantadas. </p>
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+<p>A tabela a seguir apresentará os requisitos funcionais do projeto, discriminando o nível de prioridade estabelecido entre cada elemento.</p>
+
+<table class="table">
+  <thead>
+   <th>ID</th>
+   <th>Descrição</th>
+   <th>Prioridade</th>
+  </thead>
+
+  <tbody id="tbody">
+   <td><b>RF-01</b></td>
+   <td>O site deve manter um cadastro privado e atualizado de seus usuários. </td>
+   <td>Alta</td>
+
+   <tr>
+    <td><b>RF-02</b></td>
+    <td>O site deve disponibilizar ao usuário uma ferramenta de busca por atividades, eventos e localidades</td>
+    <td>Alta</td>
+   </tr>
+   <tr>
+    <td><b>RF-03</b></td>
+    <td>O site deve enviar mensagem ao usuário quando algum evento ou atividade em sua área local ou região selecionada for divulgado</td>
+    <td>Média</td>
+   </tr>
+   <tr>
+    <td><b>RF-04</b></td>
+    <td>O site deve disponibilizar avaliações e comentários referente aos eventos, feitos por usuários já atendidos. </td>
+    <td>Alta</td></tr>
+    <tr><td><b>RF-05</b></td>
+    <td>O site deve informar ao usuário o local, faixa etária e valor do evento/atividade.</td>
+    <td>Alta</td>
+   </tr>
+   <tr>
+    <td><b>RF-06</b></td>
+    <td>O site deve permitir ao usuário escolher seu método de pagamento. </td>
+    <td>Média</td>
+   </tr>
+   <tr>
+    <td><b>RF-07</b></td>
+    <td>O site deve disponibilizar ao usuário horários de atividades/eventos.</td>
+    <td>Alta</td>
+   </tr>
+   <tr>
+    <td><b>RF-08</b></td>
+    <td>O site deve disponibilizar ferramentas para que o usuário possa solicitar ingressos de um evento. </td>
+    <td>Alta</td>
+   </tr>
+   <tr>
+    <td><b>RF-09</b></td>
+    <td>O site deve disponibilizar métodos de compartilhamento de usuários para outros usuários.   </td>
+    <td>Média</td>
+   </tr>
+    <tr>
+    <td><b>RF-10</b></td>
+    <td>O site deve disponibilizar ao usuário um campo para comentários e avaliações. </td>
+    <td>Alta</td>
+   </tr>
+  </tbody>
+ </table>
+
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+<p>A tabela a seguir apresentará os requisitos não funcionais do projeto, discriminando o nível de prioridade estabelecido entre cada elemento.</p>
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+<table class="table">
+ <thead>
+  <th>ID</th>
+  <th>Descrição</th>
+  <th>Prioridade</th>
+ </thead>
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+ <tbody id="tbody">
+  <td><b>RNF-01</b></td>
+  <td>O projeto deve ser publicado em um ambiente acessível</td>
+  <td>Alta</td>
+
+  <tr>
+   <td><b>RNF-02</b></td>
+   <td>O projeto deverá estar adequado para qualquer tipo de dispositivo que acesse possa acessa-lo, mobile, desktop, notebook...</td>
+   <td>Alta</td>
+  </tr>
+  <tr>
+   <td><b>RNF-03</b></td>
+   <td>O site deve ser estéticamente agradável, contrastando-se entre os demais elementos ofertados pelos desenvolvedores.</td>
+   <td>Média</td>
+  </tr>
+  <tr>
+   <td><b>RNF-04</b></td>
+   <td>O site deve apresentar compatibilidade com os navegadores web do mercado, focando nos mais utilizados(Microsoft Edge, Mozilla Firefox, Google Chrome).</td>
+   <td>Alta</td></tr>
+  </tr>
+ </tbody>
+</table>
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+<p>As restrições para o desenvolvimento deste projeto, configurando-se nas limitações pré-definidas para a sua execução estão dispostas na tabela a seguir.</p>
+<table class="table">
+  <thead>
+   <th>ID</th>
+   <th>Descrição</th>
+  </thead>
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+  <tbody id="tbody">
+   <td><b>RE-01</b></td>
+   <td>O projeto deverá ser entregue integralmente até a data de 26/06/2022.</td>
+   <tr>
+    <td><b>RE-02</b></td>
+    <td>As tecnologias utilizadas no projeto se restringirão às tecnologias básicas de Web FrontEnd, BackEnd e Banco de Dados, sendo necessário o uso de API</td>
+   </tr>
+   <tr>
+    <td><b>RE-03</b></td>
+    <td>A equipe não pode subcontratar a elaboração do projeto.  </td>
+   </tr>
+  </tbody>
+ </table>
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
