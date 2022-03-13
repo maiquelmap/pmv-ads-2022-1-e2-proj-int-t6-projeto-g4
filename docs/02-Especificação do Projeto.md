@@ -307,5 +307,5 @@
  </table>
 
 ## Diagrama de Casos de Uso
-![imgcassos](https://user-images.githubusercontent.com/80483432/158081609-5b032b31-c22a-4ff6-973a-14e7b9ea8498.png)
+![WhatsApp Image 2022-03-13 at 20 05 22](https://user-images.githubusercontent.com/80483432/158084994-9f16d142-aa8c-468f-927d-3a03b81241a9.jpeg)
 
