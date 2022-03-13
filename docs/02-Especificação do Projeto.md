@@ -307,5 +307,5 @@
  </table>
 
 ## Diagrama de Casos de Uso
-
+![imgcassos](https://user-images.githubusercontent.com/80483432/158081609-5b032b31-c22a-4ff6-973a-14e7b9ea8498.png)
 
