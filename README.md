@@ -1,12 +1,12 @@
-# TÍTULO DO PROJETO
+# Simbora 
 
-`CURSO`
+<strong>Portal de Eventos Culturais e de Entretenimento em BH</strong>
 
-`DISCIPLINA`
+`Análise e Desenvolvimento de Sistemas`
 
-`SEMESTRE`
+`Projeto: Desenvolvimento de uma aplicação interativa`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+`2º Semestre`
 
 ## Integrantes
 
@@ -17,16 +17,18 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+* Professora Luciana De Nardin
 
 # Documentação
 
 <ol>
-<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+<li><a href="docs/01-Documentação de Contexto.md"> Introdução</a></li>
+  <ul>
+    <li> Problemas</li>
+    <li> Objetivos</li>
+    <li> Justificativa</li>
+    <li> Público-alvo</li>
+  </ul>
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
