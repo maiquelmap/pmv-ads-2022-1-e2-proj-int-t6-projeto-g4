@@ -36,6 +36,7 @@
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md#requisitos-do-projeto"> Requisitos do Projeto</a></li>
     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md#restri%C3%A7%C3%B5es"> Restrições</a></li>
      <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md#diagrama-de-casos-de-uso"> Diagrama de Casos de Uso</a></li>
+     <li><a href= "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t6-projeto-g4/blob/main/docs/02-Especifica%C3%A7%C3%A3o%20do%20Projeto.md#video-sobre-o-projeto"> Video sobre o projeto</a></li>
   </ul>
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
