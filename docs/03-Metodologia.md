@@ -43,9 +43,8 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
   A equipe está organizada da seguinte maneira: 
 1.   	Scrum Master: 
 2.   	Product Owner:  
-3.   	Equipe de Desenvolvimento:  
-4.   	Aline Martins Candido
-5.   	Equipe de Design: 
+3.   	Equipe de Desenvolvimento:  Aline Martins;
+4.   	Equipe de Design: 
 
 
 ### Processo
