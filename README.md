@@ -14,6 +14,7 @@
 * Pedro Santos
 * Lúcia Raquel Ramos Berger
 * Aline Cândido
+* Maiquel Peres
 
 ## Orientador
 
